@@ -19,8 +19,11 @@ https://www.000webhost.com/
 ![F3kMail](https://github.com/protan2206/F3kMail/blob/main/img/5.jpg)
 ### Click Upload icon form top right corner
 ![F3kMail](https://github.com/protan2206/F3kMail/blob/main/img/6.jpg)
+### Select files form file manager
 ![F3kMail](https://github.com/protan2206/F3kMail/blob/main/img/7.jpg)
+### Open This two file.
 ![F3kMail](https://github.com/protan2206/F3kMail/blob/main/img/8.jpg)
+### Click Upload 
 ![F3kMail](https://github.com/protan2206/F3kMail/blob/main/img/9.jpg)
 ![F3kMail](https://github.com/protan2206/F3kMail/blob/main/img/10.jpg)
 ![F3kMail](https://github.com/protan2206/F3kMail/blob/main/img/11.jpg)
