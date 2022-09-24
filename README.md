@@ -1,6 +1,6 @@
 # F3kMail
 
-### Open This 000webhost.com Website.
+### Open 000webhost.com Website.
 ### And Create a account.
 ```
 https://www.000webhost.com/
