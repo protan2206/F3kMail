@@ -26,7 +26,7 @@ echo '
 
             <div class="rounded p-1 bg-success mb-2 form-group">
                 <label class="text-light"  for="exampleInputEmail1">Sender Email address</label>
-                <input type="text" name="from" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                <input type="email" name="from" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
                     placeholder="Sender Enter email">
             </div>
 
